@@ -9,7 +9,7 @@
 |23/10/30| [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | <a href="PS/2개 이하로 다른 비트.md">Solve</a> |
 |23/10/31| [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | <a href="PS/행렬 테두리 회전하기.md">Solve</a> |
 |23/11/01| [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | <a href="PS/괄호 회전하기.md">Solve</a> |
-|23/11/02| [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |  |
+|23/11/02| [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | <a href="PS/순위 검색.md">Solve</a> |
 |23/11/03| [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) |  |
 |23/11/04| [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) |  |
 |23/11/05| [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) |  |
