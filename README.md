@@ -12,4 +12,4 @@
 |23/11/02| [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | <a href="PS/순위 검색.md">Solve</a> |
 |23/11/03| [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | <a href="PS/메뉴 리뉴얼.md">Solve</a> |
 |23/11/04| [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | <a href="PS/이진 변환 반복하기.md">Solve</a> |
-|23/11/05| [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) |  |
+|23/11/05| [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | <a href="PS/삼각 달팽이.md">Solve</a> |
