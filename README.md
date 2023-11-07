@@ -14,7 +14,7 @@
 |23/11/04| [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | <a href="PS/이진 변환 반복하기.md">Solve</a> |
 |23/11/05| [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | <a href="PS/삼각 달팽이.md">Solve</a> |
 |23/11/06| [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | <a href="PS/수식 최대화.md">Solve</a> |
-|23/11/07| [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) |  |
+|23/11/07| [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | <a href="PS/튜플.md">Solve</a> |
 |23/11/08| [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) |  |
 |23/11/09| [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) |  |
 |23/11/10| [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) |  |
