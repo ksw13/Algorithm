@@ -16,7 +16,7 @@
 |23/11/06| [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | <a href="PS/수식 최대화.md">Solve</a> |
 |23/11/07| [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | <a href="PS/튜플.md">Solve</a> |
 |23/11/08| [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | <a href="PS/멀쩡한 사각형.md">Solve</a> |
-|23/11/09| [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) |  |
+|23/11/09| [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | <a href="PS/괄호 변환.md">Solve</a> |
 |23/11/10| [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) |  |
 |23/11/11| [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) |  |
 |23/11/12| [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) |  |
