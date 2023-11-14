@@ -21,7 +21,7 @@
 |23/11/11| [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | <a href="PS/방문 길이.md">Solve</a> |
 |23/11/12| [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | <a href="PS/스킬트리.md">Solve</a> |
 |23/11/13| [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | <a href="PS/개인정보 수집 유효기간.md">Solve</a> |
-|23/11/14| [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) |  |
+|23/11/14| [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | <a href="PS/신고 결과 받기.md">Solve</a> |
 |23/11/15| [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) |  |
 |23/11/16| [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) |  |
 |23/11/17| [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) |  |
