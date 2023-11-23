@@ -30,7 +30,7 @@
 |23/11/20| [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | <a href="PS/후보키.md">Solve</a> |
 |23/11/21| [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | <a href="PS/오픈채팅방.md">Solve</a> |
 |23/11/22| [n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | <a href="PS/n진수 게임.md">Solve</a> |
-|23/11/23| [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) |  |
+|23/11/23| [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | <a href="PS/파일명 정렬.md">Solve</a> |
 |23/11/24| [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) |  |
 |23/11/25| [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) |  |
 |23/11/26| [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) |  |
