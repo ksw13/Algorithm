@@ -34,7 +34,7 @@
 |23/11/24| [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | <a href="PS/압축.md">Solve</a> |
 |23/11/25| [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | <a href="PS/방금그곡.md">Solve</a> |
 |23/11/26| [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | <a href="PS/캐시.md">Solve</a> |
-|23/11/27| [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) |  |
+|23/11/27| [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | <a href="PS/예상 대진표.md">Solve</a> |
 |23/11/28| [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) |  |
 |23/11/29| [프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) |  |
 |23/11/30| [뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) |  |
