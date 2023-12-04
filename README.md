@@ -41,7 +41,7 @@
 |23/12/01| [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | <a href="PS/뉴스 클러스터링.md">Solve</a> |
 |23/12/02| [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | <a href="PS/점프와 순간 이동.md">Solve</a> |
 |23/12/03| [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | <a href="PS/배달.md">Solve</a> |
-|23/12/04| [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) |  |
+|23/12/04| [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | <a href="PS/N개의 최소공배수.md">Solve</a> |
 |23/12/05| [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) |  |
 |23/12/06| [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) |  |
 |23/12/07| [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) |  |
