@@ -44,7 +44,7 @@
 |23/12/04| [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | <a href="PS/N개의 최소공배수.md">Solve</a> |
 |23/12/05| [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) | <a href="PS/N-Queen.md">Solve</a> |
 |23/12/06| [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | <a href="PS/JadenCase 문자열 만들기.md">Solve</a> |
-|23/12/07| [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) |  |
+|23/12/07| [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | <a href="PS/행렬의 곱셈.md">Solve</a> |
 |23/12/08| [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) |  |
 |23/12/09| [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) |  |
 |23/12/10| [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) |  |
