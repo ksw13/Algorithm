@@ -48,4 +48,4 @@
 |23/12/08| [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | <a href="PS/하노이의 탑.md">Solve</a> |
 |23/12/09| [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | <a href="PS/피보나치 수.md">Solve</a> |
 |23/12/10| [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | <a href="PS/최솟값 만들기.md">Solve</a> |
-|23/12/11| [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) |  |
+|23/12/11| [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | <a href="PS/불량 사용자.md">Solve</a> |
