@@ -49,7 +49,7 @@
 |23/12/09| [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | <a href="PS/피보나치 수.md">Solve</a> |
 |23/12/10| [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | <a href="PS/최솟값 만들기.md">Solve</a> |
 |23/12/11| [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | <a href="PS/불량 사용자.md">Solve</a> |
-|23/12/12| [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) |  |
+|23/12/12| [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | <a href="PS/숫자의 표현.md">Solve</a> |
 |23/12/13| [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) |  |
 |23/12/14| [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) |  |
 |23/12/15| [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) |  |
