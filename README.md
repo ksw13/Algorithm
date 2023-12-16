@@ -54,4 +54,4 @@
 |23/12/14| [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | <a href="PS/혼자 놀기의 달인.md">Solve</a> |
 |23/12/15| [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | <a href="PS/할인 행사.md">Solve</a> |
 |23/12/16| [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | <a href="PS/피로도.md">Solve</a> |
-|23/12/17| [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) |  |
+|23/12/17| [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | <a href="PS/최댓값과 최솟값.md">Solve</a> |
