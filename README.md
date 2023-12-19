@@ -56,7 +56,7 @@
 |23/12/16| [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | <a href="PS/피로도.md">Solve</a> |
 |23/12/17| [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | <a href="PS/최댓값과 최솟값.md">Solve</a> |
 |23/12/18| [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | <a href="PS/두 원 사이의 정수 쌍.md">Solve</a> |
-|23/12/19| [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) |  |
+|23/12/19| [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | <a href="PS/연속된 부분 수열의 합.md">Solve</a> |
 |23/12/20| [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) |  |
 |23/12/21| [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) |  |
 |23/12/22| [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936) |  |
