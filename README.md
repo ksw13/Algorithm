@@ -60,6 +60,6 @@
 |23/12/20| [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | <a href="PS/과제 진행하기.md">Solve</a> |
 |23/12/21| [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | <a href="PS/택배상자.md">Solve</a> |
 |23/12/22| [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936) | <a href="PS/줄 서는 방법.md">Solve</a> |
-|23/12/23| [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) |  |
+|23/12/23| [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | <a href="PS/숫자 블록.md">Solve</a> |
 |23/12/24| [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |  |
 
