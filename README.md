@@ -62,7 +62,7 @@
 |23/12/22| [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936) | <a href="PS/줄 서는 방법.md">Solve</a> |
 |23/12/23| [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | <a href="PS/숫자 블록.md">Solve</a> |
 |23/12/24| [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | <a href="PS/멀리 뛰기.md">Solve</a> |
-|23/12/25| [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) |  |
+|23/12/25| [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | <a href="PS/택배 배달과 수거하기.md">Solve</a> |
 |23/12/26| [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |  |
 |23/12/27| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |  |
 |23/12/28| [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |  |
