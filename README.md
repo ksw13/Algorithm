@@ -64,7 +64,7 @@
 |23/12/24| [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | <a href="PS/멀리 뛰기.md">Solve</a> |
 |23/12/25| [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | <a href="PS/택배 배달과 수거하기.md">Solve</a> |
 |23/12/26| [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | <a href="PS/이모티콘 할인행사.md">Solve</a> |
-|23/12/27| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |  |
+|23/12/27| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |  |
 |23/12/28| [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |  |
 |23/12/29| [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) |  |
 |23/12/30| [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) |  |
