@@ -69,7 +69,7 @@
 |23/12/29| [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | <a href="PS/주차 요금 계산P.md">Solve</a> |
 |23/12/30| [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | <a href="PS/k진수에서 소수 개수 구하기.md">Solve</a> |
 |23/12/31| [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | <a href="PS/n^2 배열 자르기.md">Solve</a> |
-|24/01/01| [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) |  |
+|24/01/01| [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | <a href="PS/교점에 별 만들기P.md">Solve</a> |
 |24/01/02| [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052) |  |
 |24/01/03| [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) |  |
 |24/01/04| [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) |  |
