@@ -68,4 +68,4 @@
 |23/12/28| [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | <a href="PS/양궁대회.md">Solve</a> |
 |23/12/29| [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | <a href="PS/주차 요금 계산P.md">Solve</a> |
 |23/12/30| [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | <a href="PS/k진수에서 소수 개수 구하기.md">Solve</a> |
-|23/12/31| [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) |  |
+|23/12/31| [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | <a href="PS/n^2 배열 자르기.md">Solve</a> |
