@@ -71,7 +71,7 @@
 |23/12/31| [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | <a href="PS/n^2 배열 자르기.md">Solve</a> |
 |24/01/01| [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | <a href="PS/교점에 별 만들기P.md">Solve</a> |
 |24/01/02| [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052) | <a href="PS/빛의 경로 사이클P.md">Solve</a> |
-|24/01/03| [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) |  |
+|24/01/03| [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | <a href="PS/거리두기 확인하기P.md">Solve</a> |
 |24/01/04| [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) |  |
 |24/01/05| [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) |  |
 |24/01/06| [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) |  |
