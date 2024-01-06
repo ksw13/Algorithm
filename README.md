@@ -74,5 +74,5 @@
 |24/01/03| [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | <a href="PS/거리두기 확인하기P.md">Solve</a> |
 |24/01/04| [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | <a href="PS/2개 이하로 다른 비트P.md">Solve</a> |
 |24/01/05| [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | <a href="PS/행렬 테두리 회전하기P.md">Solve</a> |
-|24/01/06| [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) |  |
+|24/01/06| [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | <a href="PS/괄호 회전하기P.md">Solve</a> |
 |24/01/07| [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |  |
