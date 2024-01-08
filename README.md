@@ -76,7 +76,7 @@
 |24/01/05| [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | <a href="PS/행렬 테두리 회전하기P.md">Solve</a> |
 |24/01/06| [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | <a href="PS/괄호 회전하기P.md">Solve</a> |
 |24/01/07| [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | <a href="PS/순위 검색P.md">Solve</a> |
-|24/01/08| [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) |  |
+|24/01/08| [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | <a href="PS/메뉴 리뉴얼P.md">Solve</a> |
 |24/01/09| [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) |  |
 |24/01/10| [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) |  |
 |24/01/11| [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) |  |
