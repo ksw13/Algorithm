@@ -82,5 +82,5 @@
 |24/01/11| [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | <a href="PS/삼각 달팽이P.md">Solve</a> |
 |24/01/12| [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | <a href="PS/수식 최대화P.md">Solve</a> |
 |24/01/13| [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | <a href="PS/튜플P.md">Solve</a> |
-|24/01/14| [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) |  |
+|24/01/14| [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | <a href="PS/멀쩡한 사각형P.md">Solve</a> |
 
