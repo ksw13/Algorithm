@@ -83,7 +83,7 @@
 |24/01/12| [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | <a href="PS/수식 최대화P.md">Solve</a> |
 |24/01/13| [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | <a href="PS/튜플P.md">Solve</a> |
 |24/01/14| [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | <a href="PS/멀쩡한 사각형P.md">Solve</a> |
-|24/01/15| [ATM](https://www.acmicpc.net/problem/11399) |  |
+|24/01/15| [ATM](https://www.acmicpc.net/problem/11399) | <a href="PS/ATM.md">Solve</a> |
 |24/01/16| [주유소](https://www.acmicpc.net/problem/13305) |  |
 |24/01/17| [잃어버린 괄호](https://www.acmicpc.net/problem/1541) |  |
 
