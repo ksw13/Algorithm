@@ -86,5 +86,6 @@
 |24/01/15| [ATM](https://www.acmicpc.net/problem/11399) | <a href="PS/ATM.md">Solve</a> |
 |24/01/16| [주유소](https://www.acmicpc.net/problem/13305) | <a href="PS/주유소.md">Solve</a> |
 |24/01/17| [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | <a href="PS/잃어버린 괄호.md">Solve</a> |
+|24/01/18| [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) |  |
 
 
